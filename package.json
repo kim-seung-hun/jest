@@ -1,0 +1,23 @@
+{
+  "name": "jest_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim-seung-hun/jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kim-seung-hun/jest/issues"
+  },
+  "homepage": "https://github.com/kim-seung-hun/jest#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
