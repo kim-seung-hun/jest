@@ -1,6 +1,6 @@
 import React from "react";
 
-const List = ({ tasks }) => {
+export default function List({ tasks }) {
   return (
     <ul>
       {tasks.map((task) => (
@@ -8,6 +8,4 @@ const List = ({ tasks }) => {
       ))}
     </ul>
   );
-};
-
-export default List;
+}
